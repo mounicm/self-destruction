@@ -1,5 +1,7 @@
 # self-destruction
 
+# author : mounicraju@gmail.com
+
 Let R Scripts Kill Themselves
 
 So what is an R script?
