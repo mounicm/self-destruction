@@ -1,3 +1,4 @@
+# Author: mounicraju@gmail.com
 #' Let a process kill itself
 #' @name self-destruction
 #' @docType package
