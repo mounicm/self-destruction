@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# python cache files
+.pyc
+
 # Session Data files
 .RData
 
